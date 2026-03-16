@@ -102,16 +102,14 @@ No app code or pages are required — Vercel handles the redirect using `vercel.
 Example redirect:
 
 **Source:**  
-<a href="https://vercel-domain-redirect-demo.vercel.app" target="_blank">vercel-domain-redirect-demo.vercel.app</a>
+https://vercel-domain-redirect-demo.vercel.app  
 
 **Destination:**  
-<a href="https://vercel.com" target="_blank">vercel.com</a>
+https://vercel.com  
 
 Paths are preserved, e.g.:
 
-- <a href="https://vercel-domain-redirect-demo.vercel.app/docs" target="_blank">vercel-domain-redirect-demo.vercel.app/docs</a> → <a href="https://vercel.com/docs" target="_blank">vercel.com/docs</a>
-
----
+- https://vercel-domain-redirect-demo.vercel.app/docs → https://vercel.com/docs
 
 ## License
 
